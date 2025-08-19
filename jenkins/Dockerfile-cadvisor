@@ -1,0 +1,1 @@
+FROM  bitnami/cadvisor:0.53.0
